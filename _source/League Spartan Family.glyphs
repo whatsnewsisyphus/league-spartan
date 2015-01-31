@@ -15680,6 +15680,7 @@ unicode = 0060;
 {
 glyphname = hungarumlaut;
 lastChange = "2014-09-22 02:03:34 -0800";
+lastChange = "2014-09-22 02:03:34 +0000";
 layers = (
 {
 layerId = "A4E552E4-62BE-43BB-A58F-34F0EE3B77B8";
